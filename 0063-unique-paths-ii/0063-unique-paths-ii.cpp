@@ -10,7 +10,6 @@ public:
         if(dp[sr][sc] != -1) return dp[sr][sc];
         
         dp[sr][sc] =  solve(dp, arr, sr, sc + 1, er, ec) + solve(dp,arr, sr + 1, sc, er, ec);
-
         return dp[sr][sc];
     }
     int uniquePathsWithObstacles(vector<vector<int>>& arr) {
