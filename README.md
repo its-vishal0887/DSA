@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/its-vishal0887/DSA/tree/master/0063-unique-paths-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/its-vishal0887/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [1155-number-of-dice-rolls-with-target-sum](https://github.com/its-vishal0887/DSA/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 ## Matrix
 |  |
 | ------- |
