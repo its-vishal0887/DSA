@@ -37,8 +37,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/its-vishal0887/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0374-guess-number-higher-or-lower](https://github.com/its-vishal0887/DSA/tree/master/0374-guess-number-higher-or-lower) |
 ## Backtracking
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/its-vishal0887/DSA/tree/master/0494-target-sum) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/its-vishal0887/DSA/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
