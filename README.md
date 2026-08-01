@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/its-vishal0887/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/its-vishal0887/DSA/tree/master/0494-target-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/its-vishal0887/DSA/tree/master/0931-minimum-falling-path-sum) |
+| [1691-maximum-height-by-stacking-cuboids](https://github.com/its-vishal0887/DSA/tree/master/1691-maximum-height-by-stacking-cuboids) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/its-vishal0887/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/its-vishal0887/DSA/tree/master/1143-longest-common-subsequence) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/its-vishal0887/DSA/tree/master/1155-number-of-dice-rolls-with-target-sum) |
+| [1691-maximum-height-by-stacking-cuboids](https://github.com/its-vishal0887/DSA/tree/master/1691-maximum-height-by-stacking-cuboids) |
 ## Matrix
 |  |
 | ------- |
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/its-vishal0887/DSA/tree/master/1143-longest-common-subsequence) |
+## Sorting
+|  |
+| ------- |
+| [1691-maximum-height-by-stacking-cuboids](https://github.com/its-vishal0887/DSA/tree/master/1691-maximum-height-by-stacking-cuboids) |
 <!---LeetCode Topics End-->
