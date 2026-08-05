@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/its-vishal0887/DSA/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/its-vishal0887/DSA/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/its-vishal0887/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/its-vishal0887/DSA/tree/master/0064-minimum-path-sum) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/its-vishal0887/DSA/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/its-vishal0887/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/its-vishal0887/DSA/tree/master/0064-minimum-path-sum) |
 | [0174-dungeon-game](https://github.com/its-vishal0887/DSA/tree/master/0174-dungeon-game) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/its-vishal0887/DSA/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/its-vishal0887/DSA/tree/master/0051-n-queens) |
 | [0494-target-sum](https://github.com/its-vishal0887/DSA/tree/master/0494-target-sum) |
 ## Interactive
@@ -80,5 +83,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/its-vishal0887/DSA/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/its-vishal0887/DSA/tree/master/0051-n-queens) |
+## Hash Table
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/its-vishal0887/DSA/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/its-vishal0887/DSA/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
