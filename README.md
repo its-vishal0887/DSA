@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/its-vishal0887/DSA/tree/master/0148-sort-list) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/its-vishal0887/DSA/tree/master/1691-maximum-height-by-stacking-cuboids) |
 ## Math
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0025-reverse-nodes-in-k-group](https://github.com/its-vishal0887/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0092-reverse-linked-list-ii](https://github.com/its-vishal0887/DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/its-vishal0887/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/its-vishal0887/DSA/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/its-vishal0887/DSA/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/its-vishal0887/DSA/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/its-vishal0887/DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/its-vishal0887/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/its-vishal0887/DSA/tree/master/0148-sort-list) |
 | [0876-middle-of-the-linked-list](https://github.com/its-vishal0887/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/its-vishal0887/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Tree
@@ -140,4 +143,12 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/its-vishal0887/DSA/tree/master/0142-linked-list-cycle-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/its-vishal0887/DSA/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/its-vishal0887/DSA/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
