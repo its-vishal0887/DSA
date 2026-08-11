@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/its-vishal0887/DSA/tree/master/0002-add-two-numbers) |
 | [0877-stone-game](https://github.com/its-vishal0887/DSA/tree/master/0877-stone-game) |
 ## Minimax
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/its-vishal0887/DSA/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/its-vishal0887/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/its-vishal0887/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0092-reverse-linked-list-ii](https://github.com/its-vishal0887/DSA/tree/master/0092-reverse-linked-list-ii) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/its-vishal0887/DSA/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/its-vishal0887/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/its-vishal0887/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/its-vishal0887/DSA/tree/master/0206-reverse-linked-list) |
