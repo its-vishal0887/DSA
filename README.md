@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/its-vishal0887/DSA/tree/master/0002-add-two-numbers) |
+| [0382-linked-list-random-node](https://github.com/its-vishal0887/DSA/tree/master/0382-linked-list-random-node) |
 | [0877-stone-game](https://github.com/its-vishal0887/DSA/tree/master/0877-stone-game) |
 ## Minimax
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0148-sort-list](https://github.com/its-vishal0887/DSA/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/its-vishal0887/DSA/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/its-vishal0887/DSA/tree/master/0328-odd-even-linked-list) |
+| [0382-linked-list-random-node](https://github.com/its-vishal0887/DSA/tree/master/0382-linked-list-random-node) |
 | [0876-middle-of-the-linked-list](https://github.com/its-vishal0887/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/its-vishal0887/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
@@ -176,4 +178,12 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/its-vishal0887/DSA/tree/master/0543-diameter-of-binary-tree) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/its-vishal0887/DSA/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/its-vishal0887/DSA/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
