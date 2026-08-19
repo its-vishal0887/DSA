@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0051-n-queens](https://github.com/its-vishal0887/DSA/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/its-vishal0887/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/its-vishal0887/DSA/tree/master/0064-minimum-path-sum) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/its-vishal0887/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0174-dungeon-game](https://github.com/its-vishal0887/DSA/tree/master/0174-dungeon-game) |
 | [0300-longest-increasing-subsequence](https://github.com/its-vishal0887/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0403-frog-jump](https://github.com/its-vishal0887/DSA/tree/master/0403-frog-jump) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/its-vishal0887/DSA/tree/master/0037-sudoku-solver) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/its-vishal0887/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0142-linked-list-cycle-ii](https://github.com/its-vishal0887/DSA/tree/master/0142-linked-list-cycle-ii) |
 ## Dancing Links
 |  |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0100-same-tree](https://github.com/its-vishal0887/DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/its-vishal0887/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/its-vishal0887/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/its-vishal0887/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/its-vishal0887/DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/its-vishal0887/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/its-vishal0887/DSA/tree/master/0113-path-sum-ii) |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0100-same-tree](https://github.com/its-vishal0887/DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/its-vishal0887/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/its-vishal0887/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/its-vishal0887/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/its-vishal0887/DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/its-vishal0887/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/its-vishal0887/DSA/tree/master/0113-path-sum-ii) |
@@ -173,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/its-vishal0887/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/its-vishal0887/DSA/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
