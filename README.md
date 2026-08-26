@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0113-path-sum-ii](https://github.com/its-vishal0887/DSA/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/its-vishal0887/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/its-vishal0887/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0199-binary-tree-right-side-view](https://github.com/its-vishal0887/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/its-vishal0887/DSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/its-vishal0887/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/its-vishal0887/DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0113-path-sum-ii](https://github.com/its-vishal0887/DSA/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/its-vishal0887/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/its-vishal0887/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0199-binary-tree-right-side-view](https://github.com/its-vishal0887/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/its-vishal0887/DSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/its-vishal0887/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/its-vishal0887/DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/its-vishal0887/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/its-vishal0887/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/its-vishal0887/DSA/tree/master/0112-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/its-vishal0887/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/its-vishal0887/DSA/tree/master/0226-invert-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/its-vishal0887/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/its-vishal0887/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0113-path-sum-ii](https://github.com/its-vishal0887/DSA/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/its-vishal0887/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/its-vishal0887/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0199-binary-tree-right-side-view](https://github.com/its-vishal0887/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/its-vishal0887/DSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/its-vishal0887/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/its-vishal0887/DSA/tree/master/0543-diameter-of-binary-tree) |
