@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0024-swap-nodes-in-pairs](https://github.com/its-vishal0887/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/its-vishal0887/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0092-reverse-linked-list-ii](https://github.com/its-vishal0887/DSA/tree/master/0092-reverse-linked-list-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/its-vishal0887/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0142-linked-list-cycle-ii](https://github.com/its-vishal0887/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/its-vishal0887/DSA/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/its-vishal0887/DSA/tree/master/0206-reverse-linked-list) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0110-balanced-binary-tree](https://github.com/its-vishal0887/DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/its-vishal0887/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/its-vishal0887/DSA/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/its-vishal0887/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/its-vishal0887/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/its-vishal0887/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/its-vishal0887/DSA/tree/master/0199-binary-tree-right-side-view) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0110-balanced-binary-tree](https://github.com/its-vishal0887/DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/its-vishal0887/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/its-vishal0887/DSA/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/its-vishal0887/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/its-vishal0887/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/its-vishal0887/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/its-vishal0887/DSA/tree/master/0199-binary-tree-right-side-view) |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0110-balanced-binary-tree](https://github.com/its-vishal0887/DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/its-vishal0887/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/its-vishal0887/DSA/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/its-vishal0887/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/its-vishal0887/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/its-vishal0887/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/its-vishal0887/DSA/tree/master/0199-binary-tree-right-side-view) |
@@ -254,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/its-vishal0887/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
+## Stack
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/its-vishal0887/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
