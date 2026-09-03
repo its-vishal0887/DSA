@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0877-stone-game](https://github.com/its-vishal0887/DSA/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/its-vishal0887/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/its-vishal0887/DSA/tree/master/0983-minimum-cost-for-tickets) |
+| [0994-rotting-oranges](https://github.com/its-vishal0887/DSA/tree/master/0994-rotting-oranges) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/its-vishal0887/DSA/tree/master/1691-maximum-height-by-stacking-cuboids) |
 ## Dynamic Programming
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0064-minimum-path-sum](https://github.com/its-vishal0887/DSA/tree/master/0064-minimum-path-sum) |
 | [0174-dungeon-game](https://github.com/its-vishal0887/DSA/tree/master/0174-dungeon-game) |
 | [0931-minimum-falling-path-sum](https://github.com/its-vishal0887/DSA/tree/master/0931-minimum-falling-path-sum) |
+| [0994-rotting-oranges](https://github.com/its-vishal0887/DSA/tree/master/0994-rotting-oranges) |
 ## Binary Search
 |  |
 | ------- |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0226-invert-binary-tree](https://github.com/its-vishal0887/DSA/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/its-vishal0887/DSA/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/its-vishal0887/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0994-rotting-oranges](https://github.com/its-vishal0887/DSA/tree/master/0994-rotting-oranges) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/its-vishal0887/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Binary Tree
 |  |
