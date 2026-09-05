@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0403-frog-jump](https://github.com/its-vishal0887/DSA/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/its-vishal0887/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/its-vishal0887/DSA/tree/master/0494-target-sum) |
+| [0542-01-matrix](https://github.com/its-vishal0887/DSA/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/its-vishal0887/DSA/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/its-vishal0887/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/its-vishal0887/DSA/tree/master/0983-minimum-cost-for-tickets) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0403-frog-jump](https://github.com/its-vishal0887/DSA/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/its-vishal0887/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/its-vishal0887/DSA/tree/master/0494-target-sum) |
+| [0542-01-matrix](https://github.com/its-vishal0887/DSA/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/its-vishal0887/DSA/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/its-vishal0887/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/its-vishal0887/DSA/tree/master/0983-minimum-cost-for-tickets) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0063-unique-paths-ii](https://github.com/its-vishal0887/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/its-vishal0887/DSA/tree/master/0064-minimum-path-sum) |
 | [0174-dungeon-game](https://github.com/its-vishal0887/DSA/tree/master/0174-dungeon-game) |
+| [0542-01-matrix](https://github.com/its-vishal0887/DSA/tree/master/0542-01-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/its-vishal0887/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/its-vishal0887/DSA/tree/master/0994-rotting-oranges) |
 | [1162-as-far-from-land-as-possible](https://github.com/its-vishal0887/DSA/tree/master/1162-as-far-from-land-as-possible) |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0112-path-sum](https://github.com/its-vishal0887/DSA/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/its-vishal0887/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/its-vishal0887/DSA/tree/master/0226-invert-binary-tree) |
+| [0542-01-matrix](https://github.com/its-vishal0887/DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/its-vishal0887/DSA/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/its-vishal0887/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0994-rotting-oranges](https://github.com/its-vishal0887/DSA/tree/master/0994-rotting-oranges) |
