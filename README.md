@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0064-minimum-path-sum](https://github.com/its-vishal0887/DSA/tree/master/0064-minimum-path-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/its-vishal0887/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0174-dungeon-game](https://github.com/its-vishal0887/DSA/tree/master/0174-dungeon-game) |
+| [0200-number-of-islands](https://github.com/its-vishal0887/DSA/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/its-vishal0887/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0403-frog-jump](https://github.com/its-vishal0887/DSA/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/its-vishal0887/DSA/tree/master/0416-partition-equal-subset-sum) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0063-unique-paths-ii](https://github.com/its-vishal0887/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/its-vishal0887/DSA/tree/master/0064-minimum-path-sum) |
 | [0174-dungeon-game](https://github.com/its-vishal0887/DSA/tree/master/0174-dungeon-game) |
+| [0200-number-of-islands](https://github.com/its-vishal0887/DSA/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/its-vishal0887/DSA/tree/master/0542-01-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/its-vishal0887/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/its-vishal0887/DSA/tree/master/0994-rotting-oranges) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0124-binary-tree-maximum-path-sum](https://github.com/its-vishal0887/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/its-vishal0887/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/its-vishal0887/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/its-vishal0887/DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/its-vishal0887/DSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/its-vishal0887/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/its-vishal0887/DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0104-maximum-depth-of-binary-tree](https://github.com/its-vishal0887/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/its-vishal0887/DSA/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/its-vishal0887/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/its-vishal0887/DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/its-vishal0887/DSA/tree/master/0226-invert-binary-tree) |
 | [0542-01-matrix](https://github.com/its-vishal0887/DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/its-vishal0887/DSA/tree/master/0547-number-of-provinces) |
@@ -283,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/its-vishal0887/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/its-vishal0887/DSA/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
