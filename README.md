@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0931-minimum-falling-path-sum](https://github.com/its-vishal0887/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/its-vishal0887/DSA/tree/master/0983-minimum-cost-for-tickets) |
 | [0994-rotting-oranges](https://github.com/its-vishal0887/DSA/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/its-vishal0887/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/its-vishal0887/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/its-vishal0887/DSA/tree/master/1162-as-far-from-land-as-possible) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/its-vishal0887/DSA/tree/master/1691-maximum-height-by-stacking-cuboids) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0542-01-matrix](https://github.com/its-vishal0887/DSA/tree/master/0542-01-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/its-vishal0887/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/its-vishal0887/DSA/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/its-vishal0887/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/its-vishal0887/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/its-vishal0887/DSA/tree/master/1162-as-far-from-land-as-possible) |
 ## Binary Search
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0547-number-of-provinces](https://github.com/its-vishal0887/DSA/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/its-vishal0887/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/its-vishal0887/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/its-vishal0887/DSA/tree/master/1020-number-of-enclaves) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/its-vishal0887/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Breadth-First Search
 |  |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0547-number-of-provinces](https://github.com/its-vishal0887/DSA/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/its-vishal0887/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0994-rotting-oranges](https://github.com/its-vishal0887/DSA/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/its-vishal0887/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/its-vishal0887/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/its-vishal0887/DSA/tree/master/1162-as-far-from-land-as-possible) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/its-vishal0887/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
@@ -289,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview
 | ------- |
 | [0200-number-of-islands](https://github.com/its-vishal0887/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/its-vishal0887/DSA/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/its-vishal0887/DSA/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
