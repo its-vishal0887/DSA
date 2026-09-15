@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0572-subtree-of-another-tree](https://github.com/its-vishal0887/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/its-vishal0887/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/its-vishal0887/DSA/tree/master/0733-flood-fill) |
+| [0802-find-eventual-safe-states](https://github.com/its-vishal0887/DSA/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/its-vishal0887/DSA/tree/master/1020-number-of-enclaves) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/its-vishal0887/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/its-vishal0887/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0547-number-of-provinces](https://github.com/its-vishal0887/DSA/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/its-vishal0887/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/its-vishal0887/DSA/tree/master/0733-flood-fill) |
+| [0802-find-eventual-safe-states](https://github.com/its-vishal0887/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/its-vishal0887/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/its-vishal0887/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/its-vishal0887/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -318,13 +320,23 @@ A collection of LeetCode questions to ace the coding interview
 | [0207-course-schedule](https://github.com/its-vishal0887/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/its-vishal0887/DSA/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/its-vishal0887/DSA/tree/master/0547-number-of-provinces) |
+| [0802-find-eventual-safe-states](https://github.com/its-vishal0887/DSA/tree/master/0802-find-eventual-safe-states) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/its-vishal0887/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/its-vishal0887/DSA/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/its-vishal0887/DSA/tree/master/0802-find-eventual-safe-states) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/its-vishal0887/DSA/tree/master/0207-course-schedule) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/its-vishal0887/DSA/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/its-vishal0887/DSA/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
