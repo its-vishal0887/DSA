@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/its-vishal0887/DSA/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/its-vishal0887/DSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/its-vishal0887/DSA/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/its-vishal0887/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/its-vishal0887/DSA/tree/master/0064-minimum-path-sum) |
@@ -86,10 +87,12 @@ A collection of LeetCode questions to ace the coding interview
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/its-vishal0887/DSA/tree/master/0049-group-anagrams) |
 | [1143-longest-common-subsequence](https://github.com/its-vishal0887/DSA/tree/master/1143-longest-common-subsequence) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/its-vishal0887/DSA/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/its-vishal0887/DSA/tree/master/0148-sort-list) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/its-vishal0887/DSA/tree/master/1691-maximum-height-by-stacking-cuboids) |
 ## Math
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/its-vishal0887/DSA/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/its-vishal0887/DSA/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/its-vishal0887/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0142-linked-list-cycle-ii](https://github.com/its-vishal0887/DSA/tree/master/0142-linked-list-cycle-ii) |
 ## Dancing Links
