@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview
 | ------- |
 | [0049-group-anagrams](https://github.com/its-vishal0887/DSA/tree/master/0049-group-anagrams) |
 | [0208-implement-trie-prefix-tree](https://github.com/its-vishal0887/DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/its-vishal0887/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1143-longest-common-subsequence](https://github.com/its-vishal0887/DSA/tree/master/1143-longest-common-subsequence) |
 ## Sorting
 |  |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0200-number-of-islands](https://github.com/its-vishal0887/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/its-vishal0887/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/its-vishal0887/DSA/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/its-vishal0887/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/its-vishal0887/DSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/its-vishal0887/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/its-vishal0887/DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/its-vishal0887/DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/its-vishal0887/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/its-vishal0887/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Stack
 |  |
@@ -350,4 +353,5 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/its-vishal0887/DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/its-vishal0887/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
