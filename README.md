@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0049-group-anagrams](https://github.com/its-vishal0887/DSA/tree/master/0049-group-anagrams) |
 | [0208-implement-trie-prefix-tree](https://github.com/its-vishal0887/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/its-vishal0887/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/its-vishal0887/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/its-vishal0887/DSA/tree/master/1143-longest-common-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/its-vishal0887/DSA/tree/master/1768-merge-strings-alternately) |
 ## Sorting
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0002-add-two-numbers](https://github.com/its-vishal0887/DSA/tree/master/0002-add-two-numbers) |
 | [0382-linked-list-random-node](https://github.com/its-vishal0887/DSA/tree/master/0382-linked-list-random-node) |
 | [0877-stone-game](https://github.com/its-vishal0887/DSA/tree/master/0877-stone-game) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/its-vishal0887/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Minimax
 |  |
 | ------- |
@@ -356,4 +358,12 @@ A collection of LeetCode questions to ace the coding interview
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/its-vishal0887/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/its-vishal0887/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/its-vishal0887/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/its-vishal0887/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
