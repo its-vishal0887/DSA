@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview
 | [1020-number-of-enclaves](https://github.com/its-vishal0887/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/its-vishal0887/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/its-vishal0887/DSA/tree/master/1162-as-far-from-land-as-possible) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/its-vishal0887/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/its-vishal0887/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/its-vishal0887/DSA/tree/master/1691-maximum-height-by-stacking-cuboids) |
 ## Dynamic Programming
