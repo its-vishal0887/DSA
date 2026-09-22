@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0049-group-anagrams](https://github.com/its-vishal0887/DSA/tree/master/0049-group-anagrams) |
 | [0208-implement-trie-prefix-tree](https://github.com/its-vishal0887/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/its-vishal0887/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0345-reverse-vowels-of-a-string](https://github.com/its-vishal0887/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/its-vishal0887/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/its-vishal0887/DSA/tree/master/1143-longest-common-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/its-vishal0887/DSA/tree/master/1768-merge-strings-alternately) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/its-vishal0887/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/its-vishal0887/DSA/tree/master/0148-sort-list) |
+| [0345-reverse-vowels-of-a-string](https://github.com/its-vishal0887/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/its-vishal0887/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/its-vishal0887/DSA/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/its-vishal0887/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
