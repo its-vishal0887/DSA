@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0416-partition-equal-subset-sum](https://github.com/its-vishal0887/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/its-vishal0887/DSA/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/its-vishal0887/DSA/tree/master/0542-01-matrix) |
+| [0605-can-place-flowers](https://github.com/its-vishal0887/DSA/tree/master/0605-can-place-flowers) |
 | [0733-flood-fill](https://github.com/its-vishal0887/DSA/tree/master/0733-flood-fill) |
 | [0877-stone-game](https://github.com/its-vishal0887/DSA/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/its-vishal0887/DSA/tree/master/0931-minimum-falling-path-sum) |
@@ -367,4 +368,8 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/its-vishal0887/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/its-vishal0887/DSA/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
