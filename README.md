@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0130-surrounded-regions](https://github.com/its-vishal0887/DSA/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/its-vishal0887/DSA/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/its-vishal0887/DSA/tree/master/0200-number-of-islands) |
+| [0238-product-of-array-except-self](https://github.com/its-vishal0887/DSA/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/its-vishal0887/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0403-frog-jump](https://github.com/its-vishal0887/DSA/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/its-vishal0887/DSA/tree/master/0416-partition-equal-subset-sum) |
@@ -376,4 +377,8 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/its-vishal0887/DSA/tree/master/0605-can-place-flowers) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/its-vishal0887/DSA/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
