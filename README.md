@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/its-vishal0887/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/its-vishal0887/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/its-vishal0887/DSA/tree/master/1691-maximum-height-by-stacking-cuboids) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/its-vishal0887/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0382-linked-list-random-node](https://github.com/its-vishal0887/DSA/tree/master/0382-linked-list-random-node) |
 | [0877-stone-game](https://github.com/its-vishal0887/DSA/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/its-vishal0887/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/its-vishal0887/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Minimax
 |  |
 | ------- |
