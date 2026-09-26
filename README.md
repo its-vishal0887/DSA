@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/its-vishal0887/DSA/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/its-vishal0887/DSA/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/its-vishal0887/DSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/its-vishal0887/DSA/tree/master/0051-n-queens) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/its-vishal0887/DSA/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/its-vishal0887/DSA/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/its-vishal0887/DSA/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/its-vishal0887/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
