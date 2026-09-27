@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0124-binary-tree-maximum-path-sum](https://github.com/its-vishal0887/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0174-dungeon-game](https://github.com/its-vishal0887/DSA/tree/master/0174-dungeon-game) |
 | [0300-longest-increasing-subsequence](https://github.com/its-vishal0887/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0392-is-subsequence](https://github.com/its-vishal0887/DSA/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/its-vishal0887/DSA/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/its-vishal0887/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/its-vishal0887/DSA/tree/master/0494-target-sum) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0208-implement-trie-prefix-tree](https://github.com/its-vishal0887/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/its-vishal0887/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0345-reverse-vowels-of-a-string](https://github.com/its-vishal0887/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/its-vishal0887/DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/its-vishal0887/DSA/tree/master/0443-string-compression) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/its-vishal0887/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/its-vishal0887/DSA/tree/master/1143-longest-common-subsequence) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0151-reverse-words-in-a-string](https://github.com/its-vishal0887/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/its-vishal0887/DSA/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/its-vishal0887/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/its-vishal0887/DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/its-vishal0887/DSA/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/its-vishal0887/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/its-vishal0887/DSA/tree/master/1768-merge-strings-alternately) |
