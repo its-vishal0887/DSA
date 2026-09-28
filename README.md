@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/its-vishal0887/DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/its-vishal0887/DSA/tree/master/0011-container-with-most-water) |
 | [0037-sudoku-solver](https://github.com/its-vishal0887/DSA/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/its-vishal0887/DSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/its-vishal0887/DSA/tree/master/0051-n-queens) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/its-vishal0887/DSA/tree/master/0011-container-with-most-water) |
 | [0142-linked-list-cycle-ii](https://github.com/its-vishal0887/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/its-vishal0887/DSA/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/its-vishal0887/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/its-vishal0887/DSA/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/its-vishal0887/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/its-vishal0887/DSA/tree/master/0605-can-place-flowers) |
 ## Prefix Sum
