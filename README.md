@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview
 | [1162-as-far-from-land-as-possible](https://github.com/its-vishal0887/DSA/tree/master/1162-as-far-from-land-as-possible) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/its-vishal0887/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/its-vishal0887/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/its-vishal0887/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/its-vishal0887/DSA/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/its-vishal0887/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Dynamic Programming
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview
 | ------- |
 | [0049-group-anagrams](https://github.com/its-vishal0887/DSA/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/its-vishal0887/DSA/tree/master/0148-sort-list) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/its-vishal0887/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/its-vishal0887/DSA/tree/master/1691-maximum-height-by-stacking-cuboids) |
 ## Math
 |  |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/its-vishal0887/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0142-linked-list-cycle-ii](https://github.com/its-vishal0887/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/its-vishal0887/DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/its-vishal0887/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Dancing Links
 |  |
 | ------- |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0392-is-subsequence](https://github.com/its-vishal0887/DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/its-vishal0887/DSA/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/its-vishal0887/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/its-vishal0887/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/its-vishal0887/DSA/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/its-vishal0887/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Tree
