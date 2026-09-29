@@ -39,5 +39,28 @@ public:
 
         ans = ans / k;
         return ans;
+
+        // if(k == 1 && arr.size() == 1){
+        //     return arr[0];
+        // }
+
+        // int  i = 0, j = 0, w = 0;
+        // double ans = 0;
+        // while(j < arr.size()){
+        //     w += arr[j];
+
+        //     if(j - i + 1  < k){
+        //         j++;
+        //     }
+        //     else if(j - i + 1 == k){
+        //         if(w > ans){
+        //             ans = w;
+        //         }
+        //         w -= arr[i];
+        //         i++;
+        //         j++;
+        //     }
+        // }
+        // return ans / k;
     }
 };
