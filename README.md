@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0494-target-sum](https://github.com/its-vishal0887/DSA/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/its-vishal0887/DSA/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/its-vishal0887/DSA/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/its-vishal0887/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/its-vishal0887/DSA/tree/master/0733-flood-fill) |
 | [0877-stone-game](https://github.com/its-vishal0887/DSA/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/its-vishal0887/DSA/tree/master/0931-minimum-falling-path-sum) |
@@ -405,4 +406,8 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/its-vishal0887/DSA/tree/master/0334-increasing-triplet-subsequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/its-vishal0887/DSA/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
