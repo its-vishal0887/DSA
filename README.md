@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0931-minimum-falling-path-sum](https://github.com/its-vishal0887/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/its-vishal0887/DSA/tree/master/0983-minimum-cost-for-tickets) |
 | [0994-rotting-oranges](https://github.com/its-vishal0887/DSA/tree/master/0994-rotting-oranges) |
+| [1004-max-consecutive-ones-iii](https://github.com/its-vishal0887/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/its-vishal0887/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/its-vishal0887/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/its-vishal0887/DSA/tree/master/1162-as-far-from-land-as-possible) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/its-vishal0887/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/its-vishal0887/DSA/tree/master/0374-guess-number-higher-or-lower) |
+| [1004-max-consecutive-ones-iii](https://github.com/its-vishal0887/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/its-vishal0887/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Backtracking
 |  |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/its-vishal0887/DSA/tree/master/0238-product-of-array-except-self) |
+| [1004-max-consecutive-ones-iii](https://github.com/its-vishal0887/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -411,5 +414,6 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/its-vishal0887/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/its-vishal0887/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/its-vishal0887/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
