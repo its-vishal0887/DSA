@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview
 | [1559-detect-cycles-in-2d-grid](https://github.com/its-vishal0887/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/its-vishal0887/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/its-vishal0887/DSA/tree/master/1691-maximum-height-by-stacking-cuboids) |
+| [1732-find-the-highest-altitude](https://github.com/its-vishal0887/DSA/tree/master/1732-find-the-highest-altitude) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/its-vishal0887/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Dynamic Programming
 |  |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/its-vishal0887/DSA/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/its-vishal0887/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1732-find-the-highest-altitude](https://github.com/its-vishal0887/DSA/tree/master/1732-find-the-highest-altitude) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
