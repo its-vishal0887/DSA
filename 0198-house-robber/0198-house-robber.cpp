@@ -12,6 +12,20 @@ public:
         dp[i] = max(left, right);
         return dp[i];
     }
+
+    int solveUsingTab(vector<int>&arr, int i){
+        int n = arr.size();
+        vector<int>dp(n+n, -1);
+
+        dp[n] = 0;
+
+        for(int i = n-1; i>= 0; i--){
+            int inc = arr[i] + dp[i+2];
+            int exc = 0 + dp[i+1];
+            dp[i] = max(inc, exc);
+        }
+        return dp[0];
+    }
     int rob(vector<int>& nums) {
         int i = 0;
         vector<int>dp(nums.size(), -1);
