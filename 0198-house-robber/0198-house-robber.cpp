@@ -15,21 +15,26 @@ public:
 
     int solveUsingTab(vector<int>&arr, int i){
         int n = arr.size();
-        vector<int>dp(n+n, -1);
+        vector<int>dp(n+1, -1);
 
         dp[n] = 0;
 
         for(int i = n-1; i>= 0; i--){
-            int inc = arr[i] + dp[i+2];
+            int temp = 0;
+            if(i + 2 <= n){
+                temp = dp[i+2];
+            }
+            int inc = arr[i] + temp;
             int exc = 0 + dp[i+1];
             dp[i] = max(inc, exc);
         }
+        dp.clear();
         return dp[0];
     }
     int rob(vector<int>& nums) {
         int i = 0;
         vector<int>dp(nums.size(), -1);
-        int ans = solve(nums, i, dp);
+        int ans = solveUsingTab(nums, i);
         // cout<<ans<<endl;
         return ans;
     }
