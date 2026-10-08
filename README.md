@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/its-vishal0887/DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/its-vishal0887/DSA/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/its-vishal0887/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/its-vishal0887/DSA/tree/master/0208-implement-trie-prefix-tree) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/its-vishal0887/DSA/tree/master/0020-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/its-vishal0887/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/its-vishal0887/DSA/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Union-Find
@@ -427,4 +429,8 @@ A collection of LeetCode questions to ace the coding interview
 | [0643-maximum-average-subarray-i](https://github.com/its-vishal0887/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/its-vishal0887/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/its-vishal0887/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/its-vishal0887/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
