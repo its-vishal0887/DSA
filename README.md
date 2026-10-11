@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0345-reverse-vowels-of-a-string](https://github.com/its-vishal0887/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/its-vishal0887/DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/its-vishal0887/DSA/tree/master/0443-string-compression) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/its-vishal0887/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/its-vishal0887/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/its-vishal0887/DSA/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/its-vishal0887/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview
 | ------- |
 | [0020-valid-parentheses](https://github.com/its-vishal0887/DSA/tree/master/0020-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/its-vishal0887/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/its-vishal0887/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/its-vishal0887/DSA/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Union-Find
 |  |
