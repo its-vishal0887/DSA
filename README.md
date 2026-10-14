@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0064-minimum-path-sum](https://github.com/its-vishal0887/DSA/tree/master/0064-minimum-path-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/its-vishal0887/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/its-vishal0887/DSA/tree/master/0130-surrounded-regions) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/its-vishal0887/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0174-dungeon-game](https://github.com/its-vishal0887/DSA/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/its-vishal0887/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/its-vishal0887/DSA/tree/master/0200-number-of-islands) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/its-vishal0887/DSA/tree/master/0002-add-two-numbers) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/its-vishal0887/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0382-linked-list-random-node](https://github.com/its-vishal0887/DSA/tree/master/0382-linked-list-random-node) |
 | [0877-stone-game](https://github.com/its-vishal0887/DSA/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/its-vishal0887/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview
 | ------- |
 | [0020-valid-parentheses](https://github.com/its-vishal0887/DSA/tree/master/0020-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/its-vishal0887/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/its-vishal0887/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/its-vishal0887/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/its-vishal0887/DSA/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Union-Find
