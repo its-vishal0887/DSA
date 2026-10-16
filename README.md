@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0643-maximum-average-subarray-i](https://github.com/its-vishal0887/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/its-vishal0887/DSA/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/its-vishal0887/DSA/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/its-vishal0887/DSA/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/its-vishal0887/DSA/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/its-vishal0887/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/its-vishal0887/DSA/tree/master/0983-minimum-cost-for-tickets) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0020-valid-parentheses](https://github.com/its-vishal0887/DSA/tree/master/0020-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/its-vishal0887/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/its-vishal0887/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0739-daily-temperatures](https://github.com/its-vishal0887/DSA/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/its-vishal0887/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/its-vishal0887/DSA/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Union-Find
@@ -438,4 +440,8 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/its-vishal0887/DSA/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/its-vishal0887/DSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
