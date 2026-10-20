@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0724-find-pivot-index](https://github.com/its-vishal0887/DSA/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/its-vishal0887/DSA/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/its-vishal0887/DSA/tree/master/0739-daily-temperatures) |
+| [0860-lemonade-change](https://github.com/its-vishal0887/DSA/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/its-vishal0887/DSA/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/its-vishal0887/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/its-vishal0887/DSA/tree/master/0983-minimum-cost-for-tickets) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0334-increasing-triplet-subsequence](https://github.com/its-vishal0887/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/its-vishal0887/DSA/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/its-vishal0887/DSA/tree/master/0605-can-place-flowers) |
+| [0860-lemonade-change](https://github.com/its-vishal0887/DSA/tree/master/0860-lemonade-change) |
 ## Prefix Sum
 |  |
 | ------- |
