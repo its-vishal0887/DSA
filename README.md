@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview
 | [1679-max-number-of-k-sum-pairs](https://github.com/its-vishal0887/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/its-vishal0887/DSA/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1732-find-the-highest-altitude](https://github.com/its-vishal0887/DSA/tree/master/1732-find-the-highest-altitude) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/its-vishal0887/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/its-vishal0887/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Dynamic Programming
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview
 | [1162-as-far-from-land-as-possible](https://github.com/its-vishal0887/DSA/tree/master/1162-as-far-from-land-as-possible) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/its-vishal0887/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/its-vishal0887/DSA/tree/master/1691-maximum-height-by-stacking-cuboids) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/its-vishal0887/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Matrix
 |  |
 | ------- |
