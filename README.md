@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0001-two-sum](https://github.com/its-vishal0887/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/its-vishal0887/DSA/tree/master/0011-container-with-most-water) |
 | [0037-sudoku-solver](https://github.com/its-vishal0887/DSA/tree/master/0037-sudoku-solver) |
+| [0045-jump-game-ii](https://github.com/its-vishal0887/DSA/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/its-vishal0887/DSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/its-vishal0887/DSA/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/its-vishal0887/DSA/tree/master/0063-unique-paths-ii) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/its-vishal0887/DSA/tree/master/0045-jump-game-ii) |
 | [0063-unique-paths-ii](https://github.com/its-vishal0887/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/its-vishal0887/DSA/tree/master/0064-minimum-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/its-vishal0887/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/its-vishal0887/DSA/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/its-vishal0887/DSA/tree/master/0045-jump-game-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/its-vishal0887/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/its-vishal0887/DSA/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/its-vishal0887/DSA/tree/master/0605-can-place-flowers) |
