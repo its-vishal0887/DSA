@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0739-daily-temperatures](https://github.com/its-vishal0887/DSA/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/its-vishal0887/DSA/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/its-vishal0887/DSA/tree/master/0877-stone-game) |
+| [0896-monotonic-array](https://github.com/its-vishal0887/DSA/tree/master/0896-monotonic-array) |
 | [0931-minimum-falling-path-sum](https://github.com/its-vishal0887/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/its-vishal0887/DSA/tree/master/0983-minimum-cost-for-tickets) |
 | [0994-rotting-oranges](https://github.com/its-vishal0887/DSA/tree/master/0994-rotting-oranges) |
