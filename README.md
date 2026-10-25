@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview
 | [1020-number-of-enclaves](https://github.com/its-vishal0887/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/its-vishal0887/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/its-vishal0887/DSA/tree/master/1162-as-far-from-land-as-possible) |
+| [1254-number-of-closed-islands](https://github.com/its-vishal0887/DSA/tree/master/1254-number-of-closed-islands) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/its-vishal0887/DSA/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/its-vishal0887/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/its-vishal0887/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview
 | [1020-number-of-enclaves](https://github.com/its-vishal0887/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/its-vishal0887/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/its-vishal0887/DSA/tree/master/1162-as-far-from-land-as-possible) |
+| [1254-number-of-closed-islands](https://github.com/its-vishal0887/DSA/tree/master/1254-number-of-closed-islands) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/its-vishal0887/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Binary Search
 |  |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0733-flood-fill](https://github.com/its-vishal0887/DSA/tree/master/0733-flood-fill) |
 | [0802-find-eventual-safe-states](https://github.com/its-vishal0887/DSA/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/its-vishal0887/DSA/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/its-vishal0887/DSA/tree/master/1254-number-of-closed-islands) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/its-vishal0887/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/its-vishal0887/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Breadth-First Search
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview
 | [1020-number-of-enclaves](https://github.com/its-vishal0887/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/its-vishal0887/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/its-vishal0887/DSA/tree/master/1162-as-far-from-land-as-possible) |
+| [1254-number-of-closed-islands](https://github.com/its-vishal0887/DSA/tree/master/1254-number-of-closed-islands) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/its-vishal0887/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/its-vishal0887/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Binary Tree
@@ -383,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0200-number-of-islands](https://github.com/its-vishal0887/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/its-vishal0887/DSA/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/its-vishal0887/DSA/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/its-vishal0887/DSA/tree/master/1254-number-of-closed-islands) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/its-vishal0887/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Graph Theory
 |  |
